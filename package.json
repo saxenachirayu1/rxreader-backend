@@ -1,0 +1,28 @@
+{
+  "name": "rxreader-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saxenachirayu1/rxreader-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saxenachirayu1/rxreader-backend/issues"
+  },
+  "homepage": "https://github.com/saxenachirayu1/rxreader-backend#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.5.2",
+    "multer": "^2.1.1"
+  }
+}
